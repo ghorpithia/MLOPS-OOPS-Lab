@@ -16,9 +16,9 @@ class employee:
 
 # create an obj/instance of the class
 sam = employee()
-# sam.name = "Sam Kumar"
+sam.name = "Sam Kumar"
 # print(id(sam))
-# print(sam.name)
+print(sam.name)
 
 # shaktiman = employee()
 # print(id(shaktiman))

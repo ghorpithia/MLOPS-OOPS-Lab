@@ -92,5 +92,7 @@ class chatbook:
         self.menu()
 
 
-user1 = chatbook()
-user1.menu()
+
+if __name__ == "__main__":
+    user1 = chatbook()
+    user1.menu()
