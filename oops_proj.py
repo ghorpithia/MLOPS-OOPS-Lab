@@ -92,4 +92,5 @@ class chatbook:
         self.menu()
 
 
-# user1 = chatbook()
+user1 = chatbook()
+user1.menu()
