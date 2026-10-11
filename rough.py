@@ -1,6 +1,6 @@
-lst = [1,2,3]
-my_str = "mlops playlist"
-my_int = 155
+# lst = [1,2,3]
+# my_str = "mlops playlist"
+# my_int = 155
 
 # print(type(my_int))
 # lst.capitalize()
@@ -17,11 +17,6 @@ user1 = chatbook()
 print(user1.id)
 
 
-
-
-
-
-
 # Using static method directly from class rather than obj
 # chatbook.set_id(10)
 
@@ -32,13 +27,10 @@ print(user1.id)
 # print(user3.id)
 
 
-
 # getter and setter
 # print(user1.get_name())
 # user1.set_name("Agent X")
 # print(user1.get_name())
-
-
 
 
 # function vs method below
@@ -51,4 +43,3 @@ print(user1.id)
 # # method
 # user1 = chatbook()
 # user1.sendmsg()
-
